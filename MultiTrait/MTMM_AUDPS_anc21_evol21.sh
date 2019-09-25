@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # SLURM
-#SBATCH--mem=20GB
+#SBATCH--mem=40GB
 #SBATCH --output=Logs/MTMM_AUDPS_anc21_evol21.log
 
 # ENVIRONMENT #
