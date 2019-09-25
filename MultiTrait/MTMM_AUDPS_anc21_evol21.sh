@@ -12,7 +12,7 @@ conda activate ~/.conda/envs/limix
 # DATA #
 PHENO=/groups/nordborg/user/pieter.clauw/Documents/Collaborations/Virus/Data/AUDPS_anc21_evol21.csv
 GENO=/scratch-cbe/users/pieter.clauw/genotypes_for_pygwas/1.0.0/1001genomes/
-OUT=/scratch-cbe/users/pieter.clauw/BOKU/Results/MultiTrait/
+OUT=/scratch-cbe/users/pieter.clauw/virus/Results/MultiTrait/
 
 MTMM=~/GitRepos/GWAStoolbox/Limix/multitrait.py
 
